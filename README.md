@@ -1,4 +1,8 @@
-# wps-office-all-lang-no-internet
+# Outdated
+The snap package repository for WPS 2019 version is available at https://github.com/cyrpaut/wps-2019-snap 
+This repository remains as a Legacy for 2016 version of WPS Office.
+
+# wps-office-all-lang-no-internet: 2016 WPS Office Snap packaging
 
 This is the snapcraft file to create the wps-office-all-lang-no-internet package available from the snapcraft store at:
 https://snapcraft.io/wps-office-all-lang-no-internet
